@@ -5,7 +5,7 @@ https://github.com/user-attachments/assets/c32c7c49-641d-4b26-8f1d-db57070d261c
 
 [Employee Motivation] (https://mri2021.github.io/Employee-Motivation/)
 
-[Team Performance] (https://mri2021.github.io/Team-Simulator/)
+[Team Performance] (https://mri2021.github.io/Team-Performance/)
 
 [Employee Turnover] (https://mri2021.github.io/Employee-Turnover/)
 
