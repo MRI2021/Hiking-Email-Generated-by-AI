@@ -7,6 +7,6 @@ https://github.com/user-attachments/assets/c32c7c49-641d-4b26-8f1d-db57070d261c
 
 [Team Performance] (https://mri2021.github.io/Team-Simulator/)
 
-[Employee Turnover] (https://chatgpt.com/canvas/shared/6a1490c7b6188191b2af8893907b0cd4)
+[Employee Turnover] (https://mri2021.github.io/Employee-Turnover/)
 
 
